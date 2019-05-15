@@ -1,0 +1,4 @@
+com\eshop\search\SearchApplication.class
+com\eshop\search\controller\IndexController.class
+com\eshop\search\service\SearchServiceImpl.class
+com\eshop\search\client\ESClient.class
